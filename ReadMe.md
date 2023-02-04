@@ -5,3 +5,4 @@
 ## Домашние задания:
 
 * [01. Знакомство с Python](Homeworks_md/Homework_01.md)
+* [02. Первая программа](Homeworks_md/Homework_02.md)
